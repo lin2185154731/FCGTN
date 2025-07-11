@@ -8,7 +8,7 @@ This repository provides a **small, runnable demo** of the methods described in 
 
 **Disclaimer
 * The CSV contained here is **synthetic**. Values are randomly drawn so that mean/variance roughly match the real sensor streams, **but no commercial or personal information is included**.  
-* We publish this MRE solely to satisfy the **MDPI Data Availability Policy** and to help reviewers reproduce the main claims.  
+* We publish this MRE solely to satisfy the **Data Availability Policy** and to help reviewers reproduce the main claims.  
 * Full production data and full-size model weights remain confidential under NDA with our industrial partners.
 
 ---
