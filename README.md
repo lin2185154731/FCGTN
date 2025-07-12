@@ -1,14 +1,14 @@
 # FCGTN
-Minimal reproducible example (MRE) for the “Federated Causal-Graph Transfer Network” paper.   Includes synthetic demo data and a lightweight inference script; real industrial data remain confidential.
+Minimal reproducible example (MRE) for the “Federated Causal-Graph Transfer Network” validate.   Includes synthetic demo data and a lightweight inference script; real industrial data remain confidential.
 
 
 # FCGTN • Minimal Reproducible Example (MRE)
 
-This repository provides a **small, runnable demo** of the methods described in  Paper
+This repository provides a **small, runnable demo** of the methods for the “Federated Causal-Graph Transfer Network”
 
 **Disclaimer
 * The CSV contained here is **synthetic**. Values are randomly drawn so that mean/variance roughly match the real sensor streams, **but no commercial or personal information is included**.  
-* We publish this MRE solely to satisfy the **Data Availability Policy** and to help reviewers reproduce the main claims.  
+* We publish this MRE solely to satisfy the **Data Availability Policy** and to help engineer reproduce the main claims.  
 * Full production data and full-size model weights remain confidential under NDA with our industrial partners.
 
 ---
